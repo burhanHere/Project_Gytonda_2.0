@@ -1,0 +1,40 @@
+body {
+    background-color: rgba(150, 158, 158, 0.61);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.videoDiv {
+    background-color: rgb(230, 222, 210);
+}
+
+.video {
+    margin-top: -33px;
+    margin-left: 22%;
+    height: 300px;
+    width: 800px;
+}
+
+.div1 {
+    height: 100px;
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 0.5%;
+}
+
+.div2 {
+    background-color: rgb(230, 222, 210);
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.p1 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+code {
+    font-family: Consolas, "courier new";
+    color: black;
+    background-color: #f1f1f1;
+}
